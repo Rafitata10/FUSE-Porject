@@ -4,7 +4,7 @@ Diseño de un FileSystem mediante FUSE.
 En esta programa se implementan las funciones de:
 	getattr, readdir, open, read, rename, mkdir, rmdir, create y rm.
 
-Diseñado por Rafael Ramírez Salas y Sofía Barril, Tercer Curso de Ingeniería de Computadores.
+Diseñado por Rafael Ramírez Salas, Tercer Curso de Ingeniería de Computadores.
 Asignatura de Diseño de Sistemas Operativos, Universidad de Málaga. Curso 2021/22.
 */
 
