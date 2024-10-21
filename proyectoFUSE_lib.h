@@ -3,7 +3,7 @@
 Diseño de un FileSystem mediante FUSE.
 En esta librería se implementa la estructura del sistema, en forma de árbol.
 
-Diseñado por Rafael Ramírez Salas y Sofía Barril, Tercer Curso de Ingeniería de Computadores.
+Diseñado por Rafael Ramírez Salas, Tercer Curso de Ingeniería de Computadores.
 Asignatura de Diseño de Sistemas Operativos, Universidad de Málaga. Curso 2021/22.
 */
 
